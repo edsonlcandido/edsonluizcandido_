@@ -1,12 +1,12 @@
 # Edson Luiz Candido
 Avenida Bento do Amaral Gurgel, 1400.
-Bloco C apartamento 31 - Vila Nambi.
-13219-070 - Jundiaí - SP
+Ap.C31 - Vila Nambi - 13219-070
+Jundiaí - SP
+35 anos
 Celular: 11 981184099
-Residencial: 11 58122058
 edson.luiz.candido@gmail.com
 ## Objetivo
-- Projetista Mecanico / Desenvolvedor de software
+- Projetista Mecânico / Desenvolvedor de software
 ## Experiência profissional
 ### Howden South América ventiladores e compressores
 Itatiba - SP - Brasil
@@ -14,7 +14,7 @@ Set/2016 - atual.
 Técnico de aplicação
 #### Atividades:
 Projetos de layout e dimensional principal de projetos complexos em fase de proposta (FEL1, FEL2 e FEL3);
-Elaboração de propostas técnicas e comerciais de ventiladores centrifugos e axiais;
+Elaboração de propostas técnicas e comerciais de ventiladores centrífugos e axiais;
 Visita para levantamentos dimensionais para substituição de equipamentos;
 Melhoria e automação de rotinas do departamentos usando excel VBA;
 Desenvolvimento de programas proprietários para automação de rotinas internas interdepartamentais;
@@ -27,9 +27,9 @@ Projetos de válvulas para compressores alternativos;
 Projetos de componentes para manutenção de compressores;
 Alteração de projetos e otimizações de engaxetamentos;
 Desenvolvimento e soluções de controle para compressores;
-Implementação do software SOLIDWORKS;
-Criação de software proprietarios para uso na engenharia de produtos;
-Rotinas em VBA para solidwoks.
+Implementação do software SolidWorks;
+Criação de software proprietários para uso na engenharia de produtos;
+Rotinas em VBA para SolidWorks.
 ### Howden South América ventiladores e compressores
 Itatiba - SP - Brasil
 Mai/2008 - Dez/2013.
@@ -50,7 +50,7 @@ Desenvolvimento dos processos de usinagem;
 Acompanhamento na parte de controle dimensional através de desenhos;
 Desenvolvimento de ferramentas para usinagem;
 Desenvolvimento de dispositivos para usinagem;
-Desenvolvimento de calibradores para controle dimen-sional na máquina.
+Desenvolvimento de calibradores para controle dimensional na máquina.
 ### Bayer S.A.
 Socorro, São Paulo - SP - Brasil
 Ago/2002 - ago/2004.
@@ -65,21 +65,21 @@ Ribeirão Preto - SP - Brasil
 Curso Engenharia de Software - MBA EAD (cursando)
 ### Faculdade de tecnologia de São Paulo  - FATEC - SP
 São Paulo - SP - Brasil
-Curso Superior em tecnologia mecanicaa - Modalidade projetos
+Curso Superior em tecnologia mecânicas - Modalidade projetos
 ## Competências
 Resolução de problemas utilizando ferramentas de LEAN Manufacturing e trabalho em grupo.
 Conhecimento intermediários nos softwares do pacote Office Word, PowerPoint, Access e avançado o Excel (Criação de macros, interfaces gráficas e rotinas VBA).
-Conhecimentos avançados em softwares de desenho e projetos mecânicos como Autodesk INVENTOR, AutoCAD, intermediário em Solidworks e conhecimentos básicos nos softwares CATIA, SolidEDGE.
+Conhecimentos avançados em softwares de desenho e projetos mecânicos como Autodesk INVENTOR, AutoCAD, intermediário em SolidWorks e conhecimentos básicos nos softwares CATIA, SolidEDGE.
 Conhecimentos básicos em softwares de FEA.
-Desenvolvimento de software em liguagens VB.NET, C#.NET é interfaces web e programação em PHP.
+Desenvolvimento de software em linguagens VB.NET, C#.NET é interfaces web e programação em PHP.
 ## Idiomas
 ### Inglês
-Escrita: Nivel intermediário.
-Leitura: Nivel intermediário.
-Conversação: Nivel intermediário.
+Escrita: Nível intermediário.
+Leitura: Nível intermediário.
+Conversação: Nível intermediário.
 ## Cursos
 ### IST Sistemas.
-Solidworks essencial (ago/2014)
+SolidWorks essencial (ago/2014)
 ### Strand Pty Limited.
 Buckden, Cambridgeshire - Reino Unido
 Strand7 essentials
