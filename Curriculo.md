@@ -1,12 +1,12 @@
 # Edson Luiz Candido
-Avenida Bento do Amaral Gurgel, 1400.
-Ap.C31 - Vila Nambi - 13219-070
-Jundiaí - SP
 35 anos
+Vila Nambi, Jundiaí - SP
 Celular: 11 981184099
 edson.luiz.candido@gmail.com
+
 ## Objetivo
-- Projetista Mecânico / Desenvolvedor de software
+Atuar na área de engenharia, exercendo a função de projetista utilizando minhas experiencias em softwares CAD 2D e 3D, aplicando minha experiencia na área da industria onde atuo desde 2002. 
+Capacitado a trabalhar com programação de software, devido ao aprendizado adquirido nos últimos anos em cursos e bootcamps nas linguagens C#, PHP, HTML, CSS e Javascript.
 ## Experiência profissional
 ### Howden South América ventiladores e compressores
 Itatiba - SP - Brasil
@@ -16,6 +16,7 @@ Técnico de aplicação
 Projetos de layout e dimensional principal de projetos complexos em fase de proposta (FEL1, FEL2 e FEL3);
 Elaboração de propostas técnicas e comerciais de ventiladores centrífugos e axiais;
 Visita para levantamentos dimensionais para substituição de equipamentos;
+Desenvolvimento de softwares para auxiliar a criação de desenhos utilizando softwares CAD e programação C#, consultando banco de dados e geração de componentes, montagens e desenho de fabricação;
 Melhoria e automação de rotinas do departamentos usando excel VBA;
 Desenvolvimento de programas proprietários para automação de rotinas internas interdepartamentais;
 ### Selco vedações dinâmicas LTDA
@@ -41,6 +42,7 @@ Elaboração de desenhos de conjuntos e detalhamentos para fabricação, utiliza
 Especificações técnicas de compra;
 Responsável pela implementação do software Autodesk INVENTOR;
 Parametrização e automação dos elementos por Ipart.
+
 ### Metalúrgica Nairi
 Socorro, São Paulo - SP - Brasil
 Fev/2006 - Fev/2008.
@@ -68,25 +70,32 @@ São Paulo - SP - Brasil
 Curso Superior em tecnologia mecânicas - Modalidade projetos
 ## Competências
 Resolução de problemas utilizando ferramentas de LEAN Manufacturing e trabalho em grupo.
-Conhecimento intermediários nos softwares do pacote Office Word, PowerPoint, Access e avançado o Excel (Criação de macros, interfaces gráficas e rotinas VBA).
+Conhecimento intermediários nos softwares do pacote Office Word, PowerPoint, Access e avançado no Excel (Criação de macros, interfaces gráficas e rotinas VBA).
 Conhecimentos avançados em softwares de desenho e projetos mecânicos como Autodesk INVENTOR, AutoCAD, intermediário em SolidWorks e conhecimentos básicos nos softwares CATIA, SolidEDGE.
 Conhecimentos básicos em softwares de FEA.
-Desenvolvimento de software em linguagens VB.NET, C#.NET é interfaces web e programação em PHP.
+Desenvolvimento de software em linguagens VB.NET, C#.NET e interfaces web e programação em PHP.
 ## Idiomas
 ### Inglês
-Escrita: Nível intermediário.
-Leitura: Nível intermediário.
-Conversação: Nível intermediário.
+Nível intermediário, onde tenho capacidade para participar de chamadas e apresentações como apresentador.
+Boa leitura e entendimento de materiais técnicos e pesquisa no idioma.
+Comunicação escrita através de e-mails ou aplicativos de conversação com estrangeiros.
 ## Cursos
+### IGTI
+Bootcamp - arquiteto de software (mai/2021)
+### Udemy
+Fundamentos de expressões regulares (REGEX) (mar/2020)
+C# Advanced Topics: Prepare for Technical Interviews (nov/2018)
+Learning C# Design Patterns (ago/2018)
+3D Studio max completo - do básico ao avançado (jun/2018)
 ### IST Sistemas.
 SolidWorks essencial (ago/2014)
 ### Strand Pty Limited.
 Buckden, Cambridgeshire - Reino Unido
-Strand7 essentials
+Strand7 essentials (nov/2012)
 Noções básicas de softwares de analise de elementos finitos.
-Strand7 non linear analysis
+Strand7 non linear analysis (nov/2012)
 Analise de elementos não lineares em software de FEA.
-Strand7 Dynamic analysis
+Strand7 Dynamic analysis (nov/2012)
 Analise de estruturas dinâmicas em software de FEA.
 ### EFLanguage - English Town
 Inglês (2012-2013)
