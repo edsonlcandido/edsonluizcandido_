@@ -138,7 +138,7 @@ Comunicação escrita através de e-mails ou aplicativos de conversação com es
 
 ### Escola Nacional de Administração Publica
 
-BIM - Implantação *(jul/2023)
+BIM - Implantação *(jul/2023)*
 
 ### Faculdade Metropolitana do Estado de São Paulo (FAMEESP)
 
